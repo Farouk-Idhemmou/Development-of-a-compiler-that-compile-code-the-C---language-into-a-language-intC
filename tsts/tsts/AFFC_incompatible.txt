@@ -1,0 +1,10 @@
+int var ;
+
+
+int main(){
+	
+	int t[10][10];
+	int var ,som;
+	t=var;
+	
+}

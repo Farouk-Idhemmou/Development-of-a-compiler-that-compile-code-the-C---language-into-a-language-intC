@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1707904500 source:d:\documents\bureau\adnany_bouhaous_idhemmou_gi5\test\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<map>
+	<vector>
+	<array>
+	<vector>
+	<cstdlib>
+

@@ -1,0 +1,10 @@
+int var ;
+int var ;
+
+int main(){
+	int x;
+	x=1;
+
+	if(){
+	}
+}

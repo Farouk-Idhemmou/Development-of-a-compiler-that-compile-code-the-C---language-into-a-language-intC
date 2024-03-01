@@ -1,0 +1,10 @@
+int var ;
+int var ;
+
+
+
+int main(){
+
+	x=1;
+	
+}

@@ -1,0 +1,22 @@
+int var ;
+
+
+int main(){
+	
+	int t[10][10];
+	int som;	
+}
+
+void f(int a,int b,int c){
+	int var1,var2;
+	return 5;
+}
+
+int fct(){
+
+	int d;
+	d=f(1,2,3);
+	return 5;
+
+
+}

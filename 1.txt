@@ -1,0 +1,17 @@
+int var;
+int var1, var2;
+
+void fct{
+
+int varloc;
+var = 1;
+if(1==1){
+
+}
+else{
+
+}
+while(!(var1<=var2)&&(var1<=var2))
+varloc=var1;
+return varloc;
+}

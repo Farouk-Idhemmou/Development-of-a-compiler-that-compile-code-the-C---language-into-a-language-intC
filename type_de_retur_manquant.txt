@@ -1,0 +1,18 @@
+int var ;
+
+
+int main(){
+	
+	int t[10][10];
+	int var ,som;
+	
+	
+}
+
+int f(){
+	
+	int var;
+	return ;
+
+
+}

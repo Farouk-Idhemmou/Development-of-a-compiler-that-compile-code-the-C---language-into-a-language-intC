@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1707925450 source:c:\users\pc\downloads\bouhaous_idhemmou_adnany_gi5\bouhaous_idhemmou_adnany_gi5\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<map>
+	<vector>
+	<array>
+	<vector>
+	<cstdlib>
+
+1707925450 source:d:\documents\bureau\projet_compilateur\adnany_bouhaous_idhemmou_gi5_compilateur\bouhaous_idhemmou_adnany_gi5\bouhaous_idhemmou_adnany_gi5\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<map>
+	<vector>
+	<array>
+	<vector>
+	<cstdlib>
+

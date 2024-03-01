@@ -1,0 +1,16 @@
+int var;
+int var1, var2;
+int t[5][5];
+
+
+int a(int x){
+	return 5;
+}
+int fct(){
+
+int varloc;
+var = 1;
+a(t[1][5],1);
+t[5][5]=10;
+return 5;
+}
