@@ -2,7 +2,7 @@
 ***Other files.txt are file tests for each part of the project .
 
 
-***Open the Compiler_Code.cbp in an IDE of C++ and run it . and test each file by replacing name of file in the file "exemple.txt" in the main function.
+***Open the Compiler_Code.cbp in a C++ IDE  and run it . and test each file by replacing name of file in the file "exemple.txt" in the main function.
 ***the compiler will detect error of (lexical, syntactic, and semantic). 
 
 ***Here is a description of the project:
