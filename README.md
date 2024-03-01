@@ -1,4 +1,4 @@
-***The main code is in tha Compiler_Code.cbp .
+***The main code is in the Compiler_Code.cbp .
 ***Other files.txt are file tests for each part of the project .
 
 
